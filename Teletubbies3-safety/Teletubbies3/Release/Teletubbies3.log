@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Teletubbies3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Teletubbies3-safety.cpp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Teletubbies3.vcxproj -> C:\Users\ACER\source\repos\Teletubbies3-safety\Release\Teletubbies3-safety.exe
+  Teletubbies3.vcxproj -> C:\Users\ACER\source\repos\Teletubbies3-safety\Release\Teletubbies3-safety.pdb (Full PDB)
